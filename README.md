@@ -1,3 +1,5 @@
+![boskalis-dashboard-banner](.github/readme-assets/boskalis-dashboard-banner.png)
+
 # Boskalis Maintenance System
 
 A custom-built maintenance management system for maritime equipment tracking and maintenance scheduling.
@@ -34,5 +36,3 @@ A custom-built maintenance management system for maritime equipment tracking and
 - Zod
 - date-fns
 - TanStack Table
-
-![boskalis-dashboard](.github/readme-assets/boskalis-dashboard.png)
