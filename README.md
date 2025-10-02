@@ -44,4 +44,4 @@ A custom-built maintenance management system for maritime equipment tracking and
 - date-fns
 - TanStack Table
 
-![boskalis-dashboard](.github/readme-assets/boskalis-dashboard.png)  
+![boskalis-maintenance-dashboard](.github/readme-assets/boskalis-dashboard.png)  
