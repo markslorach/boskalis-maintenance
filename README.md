@@ -1,4 +1,4 @@
-![boskalis-dashboard-banner](.github/readme-assets/boskalis-dashboard-banner.png)
+![boskalis-banner](.github/readme-assets/boskalis-banner.png)
 
 # Boskalis Maintenance System
 
@@ -23,6 +23,13 @@ A custom-built maintenance management system for maritime equipment tracking and
 - User authentication (email/password)
 - Responsive design for desktop and mobile
 
+## Architecture
+* **Dynamic status calculation** - Status calculated using `date-fns` based on client business logic and synced to database
+* **Multi-layer caching** - Server-side caching with Next.js `unstable_cache` and client-side SWR with automatic revalidation
+* **Server actions** - Secure database operations with Next.js server actions and Prisma, validated with Zod on both client and server
+* **Cookie-based persistence** - User filter preferences (equipment type & status filters) saved across sessions
+* **Error handling** - Automatic rollback on failed mutations with toast notifications
+
 ## Tech Stack
 
 - Next.js 15 (React 19)
@@ -36,3 +43,5 @@ A custom-built maintenance management system for maritime equipment tracking and
 - Zod
 - date-fns
 - TanStack Table
+
+![boskalis-dashboard](.github/readme-assets/boskalis-dashboard.png)  
