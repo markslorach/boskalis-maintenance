@@ -1,4 +1,4 @@
-![boskalis-banner](.github/readme-assets/boskalis-banner.svg)
+![boskalis-banner](.github/readme-assets/boskalis-github-banner.svg)
 
 # Boskalis Maintenance System
 
@@ -44,4 +44,4 @@ A custom-built maintenance management system for maritime equipment tracking and
 - date-fns
 - TanStack Table
 
-![boskalis-maintenance-dashboard](.github/readme-assets/boskalis-dashboard.svg)  
+![boskalis-maintenance-dashboard](.github/readme-assets/boskalis-app-dashboard.svg)  
