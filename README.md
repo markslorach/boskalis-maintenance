@@ -32,7 +32,7 @@ A custom-built maintenance management system for maritime equipment tracking and
 
 ## Tech Stack
 
-- Next.js 15 (React 19)
+- Next.js (React 19)
 - TypeScript
 - Tailwind
 - shadcn/ui
