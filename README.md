@@ -38,7 +38,7 @@ A custom-built maintenance management system for maritime equipment tracking and
 - shadcn/ui
 - Prisma (PostgreSQL)
 - Better Auth
-- SWR
+- Tanstack Query
 - React Hook Form
 - Zod
 - date-fns
