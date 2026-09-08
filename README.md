@@ -9,6 +9,7 @@ A production maintenance management application built for Boskalis to bring mari
 The project began with a photograph of the whiteboard the team used to track equipment, alongside an Excel spreadsheet. I turned that workflow into a single system that is now used in production and continues to evolve with the team’s requirements.
 
 ## Demo
+https://github.com/user-attachments/assets/34363b04-6e72-4f13-bd5e-6c62ecf2fd0f
 
 ## Features
 ### Equipment Management
