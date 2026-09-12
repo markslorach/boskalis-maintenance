@@ -4,7 +4,7 @@
 
 A production maintenance management application built for Boskalis to bring maritime equipment records, maintenance schedules and user access into one easy-to-use system.
 
-> This repository showcases the application using mock equipment type and data. Production source code and data are not included.
+> This repository showcases the application using mock equipment types and data. Production source code and data are not included.
 
 ## The Problem
 
