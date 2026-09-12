@@ -1,4 +1,4 @@
-![Boskalis Equipment Maintenance Banner](.github/readme-assets/github-readme-banner.png)
+![Boskalis Equipment Maintenance Banner](.github/readme-assets/github-readme-banner.webp)
 
 # Boskalis Equipment Maintenance
 
@@ -43,6 +43,6 @@ The project began with a photograph of the whiteboard the team used to track equ
 
 ## Screenshots
 
-![Boskalis Equipment Maintenance Dashboard](.github/readme-assets/boskalis-dashboard.png)
+![Boskalis Equipment Maintenance Dashboard](.github/readme-assets/boskalis-dashboard.webp)
 
-![Boskalis Equipment Maintenance Admin](.github/readme-assets/boskalis-admin.png)
+![Boskalis Equipment Maintenance Admin](.github/readme-assets/boskalis-admin.webp)
