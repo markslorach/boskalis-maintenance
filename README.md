@@ -31,7 +31,7 @@ The project began with a photograph of the whiteboard the team used to track equ
 
 * **Maintenance status** - The same calculation is used throughout the application, based on due dates and whether equipment is archived or under maintenance.
 * **Permissions** - Every Server Action checks the signed-in user and their role before making changes, and form data is validated with Zod.
-* **Data and tables** — TanStack Query handles cached data and refreshes, while TanStack Table handles searching, filtering, sorting and pagination.
+* **Data and tables** - TanStack Query handles cached data and refreshes, while TanStack Table handles searching, filtering, sorting and pagination.
 * **User onboarding** - Better Auth handles user accounts, while password-setup emails are built with React Email and sent through Resend.
 * **Monitoring** - Client and server errors are captured using Sentry-compatible monitoring.
 
